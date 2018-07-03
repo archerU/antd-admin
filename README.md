@@ -3,7 +3,8 @@
 [![Travis](https://img.shields.io/badge/react-%5E16.3.2-blue.svg?style=flat-square)](https://github.com/facebook/react) [![Travis](https://img.shields.io/badge/dva-%5E2.2.3-FC3CA1.svg?style=flat-square)](https://github.com/dvajs/dva) [![Travis](https://img.shields.io/badge/ant--design-%5E3.5.3-blue.svg?style=flat-square)](https://github.com/ant-design/ant-design)
 
 
-[![Travis](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://opensource.org/licenses/MIT) ![Travis](https://img.shields.io/badge/code%20style-standard-orange.svg?style=flat-square)
+[![Travis](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://opensource.org/licenses/MIT) [![Travis](https://img.shields.io/badge/code%20style-standard-orange.svg?style=flat-square)](https://github.com/standard/standard)
+
 
 
 演示地址：[]()
