@@ -19,7 +19,7 @@ const App = ({children, dispatch, app, loading, location }) => {
           <Content className={styles.content}>
             {children}
           </Content>
-          <Footer className={styles.footer}> &copy; 2018 Antd-admin</Footer>
+          <Footer className={styles.footer}> &copy; 2018 新华智云 版权所有</Footer>
         </Layout>
       </Layout>
     </div>

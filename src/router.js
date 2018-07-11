@@ -3,10 +3,12 @@ import PropTypes from 'prop-types';
 import { Switch, Route, Redirect, routerRedux } from 'dva/router';
 import { LocaleProvider } from 'antd';
 import zh_CN from 'antd/lib/locale-provider/zh_CN';
+import Authorized from './utils/Authorized';
 import dynamic from 'dva/dynamic';
 import App from './routes/app';
 
-const { ConnectedRouter } = routerRedux
+const { ConnectedRouter } = routerRedux;
+const { AuthorizedRoute } = Authorized;
 
 const Routers = function ({ history, app }) {
   const error = dynamic({
